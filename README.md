@@ -1,7 +1,6 @@
-Here's the `README.md` for your project:
+# StreamSniffer
 
 ```markdown
-# StreamSniffer
 
 StreamSniffer is an Android library designed to extract `.m3u8` streaming links from embedded webpage content and seamlessly play them using ExoPlayer. It also supports detecting subtitle files (`.srt` and `.vtt`) for an enhanced media playback experience.
 
@@ -14,7 +13,7 @@ StreamSniffer is an Android library designed to extract `.m3u8` streaming links 
 - **WebView-based Sniffing**: Uses a `WebView` to parse and detect embedded links dynamically.
 
 ---
-
+```
 ## How to Include
 
 ### Step 1: Add the repository to your project `settings.gradle`:
