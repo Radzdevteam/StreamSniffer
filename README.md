@@ -51,7 +51,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         // Hardcoded URL
-        val url = "https://vidlink.pro/movie/786892"
+        val url = "https://radzpro.com/movie/786892"
 
         // Start the m3u8 activity with the hardcoded URL
         val intent = Intent(this, m3u8::class.java).apply {
@@ -65,17 +65,11 @@ class MainActivity : ComponentActivity() {
 }
 ```
 
----
-
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify it according to your needs.
-
----
 
 ## Contributing
 We welcome contributions! Feel free to open issues, suggest features, or submit pull requests to enhance the project.
 
----
-
 Happy streaming with **StreamSniffer**!
-```
+
